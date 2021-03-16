@@ -1,0 +1,4 @@
+Factura cu numarul 2
+Data in care s-a realizat factura: Thu May 21 11:13:41 EEST 2020
+Pentru masa cu numarul 3
+Pretul total: 48.0

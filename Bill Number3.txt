@@ -1,0 +1,4 @@
+Factura cu numarul 3
+Data in care s-a realizat factura: Thu May 21 11:14:08 EEST 2020
+Pentru masa cu numarul 7
+Pretul total: 37.0
